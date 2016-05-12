@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "UIImage-Picker"
   s.version      = "0.0.1"
-  s.summary      = "A short description of UIImage-Picker."
+  s.summary      = "A short description of UIImage-Picker.Fuck Cocospod's WARN"
 
   s.description  = <<-DESC
                    A longer description of UIImage-Picker in Markdown format.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                    * Finally, don't worry about the indent, CocoaPods strips it!
                    DESC
 
-  s.homepage     = "http://EXAMPLE/UIImage-Picker"
+  s.homepage     = "https://github.com/iorikingdom/UIImage-Picker"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/UIImage-Picker.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/iorikingdom/UIImage-Picker.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
