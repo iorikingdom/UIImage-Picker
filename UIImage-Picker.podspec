@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "UIImage-Picker"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A short description of UIImage-Picker.Fuck Cocospod's WARN"
 
   s.description  = <<-DESC
@@ -65,7 +65,7 @@ Pod::Spec.new do |s|
   #
 
   # s.platform     = :ios
-  # s.platform     = :ios, "5.0"
+  s.platform     = :ios, "12.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
